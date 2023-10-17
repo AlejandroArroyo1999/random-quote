@@ -20,6 +20,8 @@ This project demonstrates the use of jQuery to create a dynamic web page that ge
 
 [Here is a live demo of the project.](https://alejandro-random-quote.netlify.app/) (Update with the live link to your project once it's deployed)
 
+![imagen](https://github.com/AlejandroArroyo1999/random-quote/assets/100277339/ae186d2e-505d-4207-b185-6cd1eba6cac9)
+
 ## Features
 
 - Generates a random quote on button click
